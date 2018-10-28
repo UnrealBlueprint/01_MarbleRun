@@ -23,3 +23,15 @@ How to Install Unreal Engine 4
 **After watching (learning outcomes)…**
 
 How to navigate Unreal Editor
+
+### 3 Viewport Navigation & Transforms ###
+
+**In this video (objectives)…**
+
+1. How to navigate viewport
+1. Edit actor transforms
+1. Create & save new level
+
+**After watching (learning outcomes)…**
+
+How to navigate and work with actors inside viewport
