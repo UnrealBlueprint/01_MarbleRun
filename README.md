@@ -35,3 +35,15 @@ How to navigate Unreal Editor
 **After watching (learning outcomes)…**
 
 How to navigate and work with actors inside viewport
+
+### 4 Blueprint Introduction ###
+
+**In this video (objectives)…**
+
+1. Learn what happens when we Play the Game
+1. First look at Blueprints
+1. Print messages to the screen
+
+**After watching (learning outcomes)…**
+
+Understand how to execute code in Blueprints
