@@ -47,3 +47,15 @@ How to navigate and work with actors inside viewport
 **After watching (learning outcomes)…**
 
 Understand how to execute code in Blueprints
+
+### 5 Referencing Actors in Blueprints ###
+
+**In this video (objectives)…**
+
+1. Use Input Action Events
+1. Reference actor in level
+1. Use Blueprints to edit transform of actor during gameplay
+
+**After watching (learning outcomes)…**
+
+Create blueprint code that reacts to player input
