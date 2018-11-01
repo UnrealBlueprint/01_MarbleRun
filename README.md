@@ -72,3 +72,16 @@ Create blueprint code that reacts to player input
 **After watching (learning outcomes)…**
 
 Apply physics and materials to actors in levels
+
+### 7 Event Tick & Input Axis Events ###
+
+**In this video (objectives)…**
+
+1. Use mouse input to control floor actor
+1. Understand how to use input axis events
+1. Understand how to read mouse input values
+1. Use event tick
+
+**After watching (learning outcomes)…**
+
+How to use Input Axis Events and Event Tick
