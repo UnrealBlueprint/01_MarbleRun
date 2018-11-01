@@ -59,3 +59,16 @@ Understand how to execute code in Blueprints
 **After watching (learning outcomes)…**
 
 Create blueprint code that reacts to player input
+
+### 6 Applying Physics to Static Meshes ###
+
+**In this video (objectives)…**
+
+1. Add actors to level
+1. Apply physics to actors in level
+1. Apply materials to actors in level
+1. Prevent unexpected physics behavior
+
+**After watching (learning outcomes)…**
+
+Apply physics and materials to actors in levels
