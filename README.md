@@ -85,3 +85,16 @@ Apply physics and materials to actors in levels
 **After watching (learning outcomes)…**
 
 How to use Input Axis Events and Event Tick
+
+### 8 Getting and Setting Actor Rotations ###
+
+**In this video (objectives)…**
+
+1. Get rotation of actors in blueprints
+1. Set rotation of actors in blueprints
+1. Fix yaw rotation offset
+1. Clamp float values
+
+**After watching (learning outcomes)…**
+
+Learn how to get and set actor rotations in blueprints
