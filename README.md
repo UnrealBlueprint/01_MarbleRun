@@ -98,3 +98,15 @@ How to use Input Axis Events and Event Tick
 **After watching (learning outcomes)…**
 
 Learn how to get and set actor rotations in blueprints
+
+### 9 BSP Geometry ###
+
+**In this video (objectives)…**
+
+1. Create maze for marble run
+1. Learn to use BSP Geometry
+1. Apply materials to BSP Geometry
+
+**After watching (learning outcomes)…**
+
+Block out levels using BSP Geometry
