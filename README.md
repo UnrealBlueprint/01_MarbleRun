@@ -110,3 +110,15 @@ Learn how to get and set actor rotations in blueprints
 **After watching (learning outcomes)…**
 
 Block out levels using BSP Geometry
+
+### 10 Converting BSP to Static Mesh ###
+
+**In this video (objectives)…**
+
+1. Convert BSP geometry to a single static mesh
+1. Add collision to static mesh
+1. Replace actor references in level blueprint
+
+**After watching (learning outcomes)…**
+
+Convert BSP geometry to a single static mesh
