@@ -122,3 +122,16 @@ Block out levels using BSP Geometry
 **After watching (learning outcomes)…**
 
 Convert BSP geometry to a single static mesh
+
+### 11 Trigger Volumes & Overlap Events ###
+
+**In this video (objectives)…**
+
+1. Add box trigger to level
+1. Blueprint overlap events
+1. Parent actors in world outliner
+1. Mark actors to generate overlap events
+
+**After watching (learning outcomes)…**
+
+Add box triggers and use overlap events in blueprints
