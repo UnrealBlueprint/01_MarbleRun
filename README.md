@@ -135,3 +135,15 @@ Convert BSP geometry to a single static mesh
 **After watching (learning outcomes)…**
 
 Add box triggers and use overlap events in blueprints
+
+### 12 Returning Game Time in Seconds ###
+
+**In this video (objectives)…**
+
+1. Return Game Time in Seconds
+1. Combine two strings together by appending
+1. Restart level
+
+**After watching (learning outcomes)…**
+
+Return how long it takes to escape the maze
