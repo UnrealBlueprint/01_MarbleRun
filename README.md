@@ -13,6 +13,18 @@
 
 How to Install Unreal Engine 4
 
+### 1a Community & Support ###
+
+**In this video (objectives)…**
+
+1. Where to ask questions
+1. Where to share your work
+1. How to ask good questions
+
+**After watching (learning outcomes)…**
+
+Be an active part of the community.
+
 ### 2 First Steps in Unreal Engine 4 ###
 
 **In this video (objectives)…**
