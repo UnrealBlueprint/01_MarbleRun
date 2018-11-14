@@ -160,3 +160,16 @@ Return how long it takes to escape the maze
 **After watching (learning outcomes)…**
 
 Keep code tidy with comment sections
+
+### 14 Packaging your Game ###
+
+**In this video (objectives)…**
+
+1. How to package and run game without UE4 editor
+1. Set default levels to load
+1. Package only levels and content used
+1. Development & Production builds
+
+**After watching (learning outcomes)…**
+
+Package your own Unreal Engine 4 game
