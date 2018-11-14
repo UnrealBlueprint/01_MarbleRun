@@ -147,3 +147,16 @@ Add box triggers and use overlap events in blueprints
 **After watching (learning outcomes)…**
 
 Return how long it takes to escape the maze
+
+### 13 Bug Fixing & Code Cleanup ###
+
+**In this video (objectives)…**
+
+1. Remove unused code
+1. Organize code into comment sections
+1. Provide a way for the player to restart the level
+1. Fix bugs
+
+**After watching (learning outcomes)…**
+
+Keep code tidy with comment sections
